@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1150-testnet-smoke-test-nightly-has-failed-its-last",
+    "fix/issue-978-asset-registry-the-daily-live-check-will-fail",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1150-testnet-smoke-test-nightly-has-failed-its-last": "main",
+    "fix/issue-978-asset-registry-the-daily-live-check-will-fail": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1150-testnet-smoke-test-nightly-has-failed-its-last",
+    "fix/issue-978-asset-registry-the-daily-live-check-will-fail",
+    "origin"
+  ]
+}
